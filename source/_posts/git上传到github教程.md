@@ -2,7 +2,7 @@
 title: git上传到github教程
 date: 2018-05-24 22:48:15
 tags:
-categories:
+categories: "git教程"
 ---
 
 or create a new repository on the command line

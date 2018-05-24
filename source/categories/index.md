@@ -1,5 +1,6 @@
 ---
 title: categories
-date: 2018-05-23 23:48:16
+date: 2018-05-24 23:22:51
+type: "categories"
 comments: false
 ---

@@ -8,14 +8,16 @@ subtitle:
 description: 怀瑾若瑜兮 穷不得所示
 keywords:
 author: Aurora
-language: zh-Hans
+language: 
+- zh-Hans
+- zh-tw
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /JinYuSon
-permalink: :year/:month/:day/:title/
+permalink: :category/:title.html
 permalink_defaults:
 
 # Directory
